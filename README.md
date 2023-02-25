@@ -6,4 +6,4 @@ Removes YT Shorts.
 Does some usability improvements to Reddit.
 And maybe more.
 
-##Use at your own risk, this is my personal blocklist. May break some sites. 
+Use at your own risk, this is my personal blocklist. May break some sites. 
